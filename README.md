@@ -107,7 +107,7 @@ plt.show()
 
 ## Output:
 
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](<Screenshot 2026-01-30 113521.png>)
+![multivariate linear regression model for predicting the price of the house and number of occupants in the house](<Screenshot 2026-02-02 140831.png>)
 
 
 ## Result:
